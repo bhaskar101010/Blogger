@@ -1,5 +1,4 @@
 # Blogger
-# Blogger
 
 > A Realtime Blog Application
 
