@@ -62,7 +62,7 @@ MongoDB, Express, EJS , Node Js, Javascript ,Css ,Html
 
 ### Clone the repository:
 ```
-
+gh repo clone bhaskar101010/Blogger
 ```
 
 ### Env Variables
